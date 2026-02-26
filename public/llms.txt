@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חוויות גיבוש ייחודיות לחברות וארגונים: סיורי טעימות קולינריים ואמנות רחוב שמחברים את הצוות דרך תרבות, אוכל וחקר עירוני בלתי נשכח
+
+### טיולים
+https://example.com/tours
+גלו את מגוון הסיורים שלנו: סיור קולינרי בשכונות תוססות וסיורי אמנות רחוב מרתקים. כל סיור מותאם במיוחד לחיזוק הקשר בין חברי הצוות שלכם
+
+### אודות
+https://example.com/about
+אסקפיזם מתמחה ביצירת חוויות גיבוש בלתי נשכחות המשלבות תרבות עירונית, אוכל מקומי ואמנות. למדו איך אנחנו הופכים סיורים לרגעי חיבור אמיתיים
+
+### צור קשר
+https://example.com/contact
+מוכנים לחוויה שתחבר את הצוות? צרו קשר עכשיו ונבנה ביחד סיור מותאם אישית לארגון שלכם. זמינים לתיאום פגישה וייעוץ ללא התחייבות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
